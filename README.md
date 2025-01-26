@@ -13,7 +13,7 @@
 
 ## App Idea Brainstorming
 
-### Here are my favorite 3 applications and the 2 features that make them my favorite app
+### Here are my favorite 3 applications and the 2 features that make them my favorite apps
 
 #### 1. FitIndex
 <img src="https://github.com/user-attachments/assets/71bd8f46-7e72-4453-be61-c381533afe40" alt="screenshot" style="width:25%; height:50%;">
