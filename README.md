@@ -8,8 +8,8 @@
 - Improve the UI by using different fonts/colors/background and a title.
 - Add more pages
 - More functionality
-
-<img src="https://github.com/user-attachments/assets/e0bad3af-5ff2-4cfa-aed4-4fd320ea7509" alt="screenshot" style="width:25%; height:50%;">
+### App Demo (please wait, there's a delay)
+<img src="https://github.com/user-attachments/assets/2b2cac9d-a4f1-4b33-b3d7-80000b696c17" alt="screenshot" style="width:25%; height:50%;">
 
 ## App Idea Brainstorming
 
