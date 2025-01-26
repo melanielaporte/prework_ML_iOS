@@ -33,7 +33,7 @@
 - Simple time countdown displaying how much time is left on a ticket.
   
 ### Ideas
-I would like to build an mini The Sims app that is a pet users can play on the go, similar to a [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi).
+I would like to build an mini *The Sims* app that is a pet users can take care of on the go, similar to a [Tamagotchi](https://en.wikipedia.org/wiki/Tamagotchi).
 
 <img src="https://github.com/user-attachments/assets/f738018d-19bb-42c4-9def-0011b0aefa67" alt="screenshot" style="width:25%; height:50%;">
 
