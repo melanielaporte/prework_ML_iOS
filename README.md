@@ -1,5 +1,9 @@
 <h1 align=center>Prework for IOS</h1>
 
+## Submission Checklist
+<p>✅ User can run application showing a screen with a button and at least a couple of labels.</p>
+<p>✅ The screen has a background color that can changes when the button is tapped.</p>
+
 ## Some ideas to improve the app are:
 - Improve the UI by using different fonts/colors/background and a title.
 - Add more pages
