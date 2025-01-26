@@ -1,9 +1,9 @@
 <h1 align=center>Prework for IOS</h1>
 
 ## Some ideas to improve the app are:
-- Improve the UI by using different fonts/colors/background
-- Feel free to play around with other elements, such as image views, textfields, etc.
-- Implement a way to change the color of the text as well
+- Improve the UI by using different fonts/colors/background and a title.
+- Add more pages
+- More functionality
 
 <img src="https://github.com/user-attachments/assets/e0bad3af-5ff2-4cfa-aed4-4fd320ea7509" alt="screenshot" style="width:25%; height:50%;">
 
